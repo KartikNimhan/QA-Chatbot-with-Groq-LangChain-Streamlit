@@ -100,7 +100,7 @@ Then open your browser at: [http://localhost:8501](http://localhost:8501)
 
 ## 📸 Preview
 
-![screenshot](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/39543fac-a742-4862-91b7-020837d3ee47" />) <!-- Replace with actual screenshot link if available -->
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/39543fac-a742-4862-91b7-020837d3ee47" />
 
 ---
 
